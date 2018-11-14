@@ -28,5 +28,13 @@ Simple, quick cheat sheets on computer science concepts.
 * [Merge Sort](/sorting/mergesort.md)
 * [Quick Sort](/sorting/quicksort.md)
 
+
+## Links:
+CS Theory Videos: https://dev.to/vaidehijoshi
+Data Structure Visualizations: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+MIT CS Classes: https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw
+
+
+
 ## Contribute
 Feel free to add pull requests to add information to any of these sheets or create a new one!
