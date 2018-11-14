@@ -31,7 +31,9 @@ Simple, quick cheat sheets on computer science concepts.
 
 ## Links:
 CS Theory Videos: https://dev.to/vaidehijoshi
+
 Data Structure Visualizations: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
 MIT CS Classes: https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw
 
 
